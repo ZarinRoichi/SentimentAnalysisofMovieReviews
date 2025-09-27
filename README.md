@@ -72,4 +72,3 @@ This work aims to provide a **benchmark for Bengali movie review sentiment analy
 
 ---
 
-## 📂 Repository Structure
